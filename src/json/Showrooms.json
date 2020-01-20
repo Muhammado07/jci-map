@@ -1,0 +1,68 @@
+[
+    {
+      "title": "JEDDAH HEAD OFFICE",
+      "street": "Qasim Zinah Ar Rawdah (Madinah Road)",
+      "buildingno": "",
+      "region": "Western",
+      "city": "Jeddah",
+      "landlineNo": "012 228 8211",
+      "email": "",
+      "lat": "21.57574",
+      "lng": "39.166715"
+    },
+    {
+      "title": "MADINAH",
+      "street": "Tabuk Road",
+      "buildingno": "",
+      "region": "Western",
+      "city": "Madinah",
+      "landlineNo": "014 845 1625",
+      "email": "",
+      "lat": "24.485637",
+      "lng": "39.578305"
+    },
+    {
+      "title": "RIYADH",
+      "street": "Rail Street ",
+      "buildingno": "",
+      "region": "Central",
+      "city": "Riyadh",
+      "landlineNo": "011 204 7350",
+      "email": "",
+      "lat": "24.64512",
+      "lng": "46.733904"
+    },
+    {
+      "title": "JEDDAH",
+      "street": "Baladiya Street",
+      "buildingno": "",
+      "region": "Western",
+      "city": "Jeddah",
+      "landlineNo": "012 660 4680",
+      "email": "",
+      "lat": "21.550783",
+      "lng": "39.183472"
+    },
+    {
+      "title": "KHOBAR",
+      "street": "Tareq Bin Ziyad",
+      "buildingno": "",
+      "region": "Eastern",
+      "city": "Khobar",
+      "landlineNo": "013 858 7454",
+      "email": "",
+      "lat": "26.352586",
+      "lng": "50.206589"
+    },
+    {
+      "title": "JEDDAH",
+      "street": "Al Naem Street",
+      "buildingno": "",
+      "region": "Western",
+      "city": "Jeddah",
+      "landlineNo": "012 659 2669",
+      "email": "",
+      "lat": "21.618484",
+      "lng": "39.141846"
+    }
+  ]
